@@ -1,0 +1,7 @@
+*.cfg
+*.pyc
+*.swp
+*.gephi
+*.gexf
+*.mysql
+*.mysqldump
